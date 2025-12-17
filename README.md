@@ -39,6 +39,11 @@ Curioso por construir y crear todo con mis propias manos.
   />
 </a>
 
+## Fun facts
+- Amo la carpintería
+- Amo los perros
+- Amo el volleyball
+
 ## Mis Estadísticas
 [![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JohanBermeo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
