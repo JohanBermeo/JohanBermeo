@@ -4,6 +4,8 @@ Soy Johan Bermeo, estudiante de Ingeniería de Sistemas y futuro Software Develo
 
 Curioso por construir y crear todo con mis propias manos.
 
+Hechale un ojo a mis repositorios pineados seguro encuentras algo que te llame la atención
+
 ## Mis Habilidades
 ### Lenguajes
 <a href="https://www.java.com" rel="noreferrer" target="_blank">
