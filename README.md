@@ -1,16 +1,43 @@
-## Hola, bienvenid@ a mi GitHub 👋
+# Hola, bienvenid@ a mi GitHub 👋
 
 Soy Johan Bermeo, estudiante de Ingeniería de Sistemas y futuro Software Developer.
 
 Curioso por construir y crear todo con mis propias manos.
 
-## Tecnologías que manejo:
+## Mis tecnologías más usadas
+<a href="https://www.java.com" rel="noreferrer" target="_blank">
+   <img 
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+     alt="java" 
+     width="40" 
+     height="40" 
+     style="max-width: 100%;"/>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    alt="python"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    alt="javascript"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    alt="typescript"
+    width="40"
+    height="40"
+  />
+</a>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 [![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JohanBermeo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
