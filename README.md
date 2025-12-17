@@ -4,7 +4,8 @@ Soy Johan Bermeo, estudiante de Ingeniería de Sistemas y futuro Software Develo
 
 Curioso por construir y crear todo con mis propias manos.
 
-## Mis tecnologías más usadas
+## Mis Habilidades
+### Lenguajes
 <a href="https://www.java.com" rel="noreferrer" target="_blank">
    <img 
      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
@@ -38,7 +39,7 @@ Curioso por construir y crear todo con mis propias manos.
   />
 </a>
 
-
+## Mis Estadísticas
 [![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JohanBermeo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JohanBermeo/JohanBermeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
