@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JohanBermeo)](https://github.com/anuraghazra/github-readme-stats)
+[![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JohanBermeo&show_icons=true&theme=Dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JohanBermeo/JohanBermeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
