@@ -46,8 +46,6 @@ Hechale un ojo a mis repositorios pineados seguro encuentras algo que te llame l
 - Amo los perros
 - Amo el volleyball
 
-## Mis Estadísticas
-[![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JohanBermeo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JohanBermeo/JohanBermeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
