@@ -9,7 +9,7 @@ Soy estudiante de **Ingeniería de Sistemas** en Bogotá y un apasionado por la 
 
 - 🛠️ Actualmente profundizando en **Docker, Kubernetes y Automatización**.
 - 🏗️ Construyendo proyectos con **NestJS, FastAPI y Astro**.
-- 🎓 Liderando iniciativas de desarrollo en **Proyección Social**.
+- 🎓 Liderando iniciativas de desarrollo en [Proyección Social](https://github.com/Proyeccion-Social).
 
 ---
 
